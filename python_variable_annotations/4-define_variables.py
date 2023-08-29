@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
 """
-Defining and annotating variables
+Module that defines and annotates variables
 """
-
 
 a: int = 1
 pi: float = 3.14
-i_understand_annotations: bool = true
-school: str "Holberton"
+i_understand_annotations: bool = True
+school: str = "Holberton"
