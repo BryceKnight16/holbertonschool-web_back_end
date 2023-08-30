@@ -3,7 +3,7 @@
 Module that gets the length of a list
 and retuns a tuple of the list and the length
 """
-from typing import List, Tuple
+from typing import Iterable, Sequence, List, Tuple
 
 
 def element_length(lst: Iterable[Sequence]) -> List[Tuple[Sequence, int]]:
