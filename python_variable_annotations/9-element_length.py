@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
 Module that gets the length of a list
 and retuns a tuple of the list and the length
