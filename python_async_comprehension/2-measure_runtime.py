@@ -1,4 +1,4 @@
-####!/usr/bin/python3
+#!/usr/bin/env python3
 """
 A module that uses corooutine to measure the runtime of
 async_comp 4 times in parrallel using gather
