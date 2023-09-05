@@ -1,0 +1,2 @@
+//mongo command that creates and uses the database
+use my_db
